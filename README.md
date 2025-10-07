@@ -28,15 +28,15 @@ Here are some screenshots of the app:
 
 | Splash                                  | Signup                           | Login                                                              |
 | --------------------------------------- | -------------------------------- | ------------------------------------------------------------------ |
-| ![Splash Screen](app/splash.jpg) | ![Signup](app/signup.jpg) | ![Login](app/login.jpg) |
+| ![Splash Screen](splash.jpg) | ![Signup](signup.jpg) | ![Login](login.jpg) |
 
 | Profile                                                              | Enter Drop Location                                                                    | Service                           |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------- |
-| ![Profile](app/profile.jpg) | ![Book Your Ride](app/enterdroplocation.jpg) | ![Service](app/service.jpg) |
+| ![Profile](profile.jpg) | ![Book Your Ride](enterdroplocation.jpg) | ![Service](service.jpg) |
 
 | Ride History                            |               Rating             |About                                                               |
 | --------------------------------------- | -------------------------------- | ------------------------------------------------------------------ |
-| ![Ride History](app/history.jpg) | ![Rating](app/rating.jpg) | ![About Screen](app/about.jpg) |
+| ![Ride History](history.jpg) | ![Rating](rating.jpg) | ![About Screen](about.jpg) |
 
 
 ## 💡 Future Enhancements
